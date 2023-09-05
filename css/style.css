@@ -37,6 +37,10 @@ h1{
     rgba(136, 175, 114, 0.5)
   ), url(https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600);
 }
+h2{
+    font-family: 'Cinzel', serif;
+}
+
 section{
     border-color: cadetblue;
     border-style: solid;
