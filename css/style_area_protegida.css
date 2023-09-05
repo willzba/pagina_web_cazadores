@@ -28,4 +28,16 @@
 h1{
     text-align: center;
     font-family: 'Black Ops One', cursive;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    
+}
+
+/*editando contenido*/
+article{
+    padding: 4%;
+}
+
+section{
+   
 }
