@@ -30,6 +30,12 @@ h1{
     text-align: center;
     font-family: 'Black Ops One', cursive;
     padding-top: 6%;
+    
+    background-image: linear-gradient(
+    to bottom,
+    rgba(112, 68, 216, 0.5),
+    rgba(136, 175, 114, 0.5)
+  ), url(https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600);
 }
 section{
     border-color: cadetblue;
