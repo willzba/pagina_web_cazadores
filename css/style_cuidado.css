@@ -22,3 +22,11 @@
     list-style: none;
     text-align: left;
 }
+h1{
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    padding-top: 6%;
+}
+footer{
+    text-align: center;
+}
